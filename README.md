@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Brian Marete! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ![Profile views](https://gpvc.arturio.dev/brianmarete)
+
 
 <!--
 **brianmarete/brianmarete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

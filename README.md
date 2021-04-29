@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Wikonnect](https://github.com/tunapanda/wikonnect) as a Frontend Dev
 - 🌱 I’m continuously learning EmberJS, ReactJS
-- 📫 How to reach me: [Twitter](https://twitter.com/brian_marete) [LinkedIn](https://www.linkedin.com/in/brian-marete/)
+- 📫 How to reach me: [Twitter](https://twitter.com/brian_marete), [LinkedIn](https://www.linkedin.com/in/brian-marete/)
 
 
 
